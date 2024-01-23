@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Drink Water",
+      "body": "drink aroun 2glass of water",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "complete assignment",
+      "body": "have to write down 2 research papers",
+      "author": "mario",
+      "id": 2
+    },
+    {
+      "title": "watch a movie",
+      "body": "go out and watch a movie with family and friends",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
